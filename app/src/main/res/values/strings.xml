@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">TabLayout</string>
+    <string name="squirtle">Squirtle</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="charmander">Charmander</string>
+    <string name="bulbasauro">Bulbasauro</string>
+</resources>
